@@ -47,6 +47,18 @@ Open the notebooks we will use in the workshop directly in your browser, either 
 
 ---
 
+## 💻 Local installation (optional)
+
+The two main notebooks run in Colab or on Binder without any setup (see above). The notebooks in `outlook_notebooks/` are meant to run locally. To set up a local environment (Python 3.14):
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+On macOS, pyGIMLi (only needed for `outlook_notebooks/Geophysical_modeling_ert_2026.ipynb`) has no pip wheels for Python 3.14 and is skipped automatically. Install it with conda instead (e.g. in a separate environment): `conda install -c gimli -c conda-forge pygimli`.
+
+---
+
 ## 🔗 GemPy Resources 
 
 [Official documentation page](https://www.gempy.org/)

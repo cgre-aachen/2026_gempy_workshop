@@ -23,7 +23,7 @@ tqdm==4.70.1
 
 # Outlook notebooks
 gstools==1.7.0         # Property_modeling
-pygimli==1.6.1         # Geophysical_modeling_ert
+pygimli==1.6.1 ; sys_platform != "darwin"   # Geophysical_modeling_ert; no macOS wheels (pgcore) - on macOS use conda-forge, see README
 torch==2.15.0          # Probabilistic_modeling (optional, large)
 pyro-ppl==1.9.2        # Probabilistic_modeling (optional)
 
