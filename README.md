@@ -43,6 +43,18 @@ Here are the links to colab notebooks we will use in the workshop:
 
 ---
 
+## 💻 Local installation (optional)
+
+The notebooks run on Colab without any setup. To run them locally (Python 3.14):
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+On macOS, pyGIMLi (only needed for `outlook_notebooks/Geophysical_modeling_ert_2026.ipynb`) has no pip wheels for Python 3.14 and is skipped automatically. Install it with conda instead (e.g. in a separate environment): `conda install -c gimli -c conda-forge pygimli`.
+
+---
+
 ## 🔗 GemPy Resources 
 
 [Official documentation page](https://www.gempy.org/)

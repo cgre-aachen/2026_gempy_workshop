@@ -5,3 +5,6 @@ __pycache__/
 
 # Private solution notebooks
 *_solution.ipynb
+
+# Results written by Probabilistic_modeling notebook
+outlook_notebooks/uq_results.npz
