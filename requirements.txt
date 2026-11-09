@@ -26,3 +26,6 @@ gstools==1.7.0         # Property_modeling
 pygimli==1.6.1         # Geophysical_modeling_ert
 torch==2.15.0          # Probabilistic_modeling (optional, large)
 pyro-ppl==1.9.2        # Probabilistic_modeling (optional)
+
+# Dev
+nbstripout==0.9.1      # strips notebook outputs on commit
