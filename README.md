@@ -1,15 +1,8 @@
-# 🚀 EGU GemPy workshop
+# 🚀 GemPy workshop
 
 Welcome to **Build your own structural geological models using GemPy**!  
 This interactive course is designed for both beginners and those with some experience in geological modeling. This README contains all the information and resources you'll need before, during, and after the workshop.
 
----
-
-## 📅 Workshop Details
-
-- **Date:** April 30, 2025  
-- **Time:** 10:45 – 12:30 (CEST)  
-- **Location:** Room 0.55 (in presence) 
 ---
 
 ## 🧰 Prerequisites
@@ -50,17 +43,13 @@ Here are the links to colab notebooks we will use in the workshop:
 
 ---
 
-## 🔗 [EGU Session Description](https://meetingorganizer.copernicus.org/EGU25/session/53630)
-
-
-
 ## 🔗 GemPy Resources 
 
 [Official documentation page](https://www.gempy.org/)
 
 [Github pages](https://github.com/gempy-project/gempy)
 
-[Video tutorials](https://docs.gempy.org/tutorials/z_other_tutorials/video_tutorial_model_1.html#sphx-glr-tutorials-z-other-tutorials-video-tutorial-model-1-py)
+[Video tutorials](https://docs.gempy.org/tutorials/a_getting_started/index.html)
 
 ---
 
