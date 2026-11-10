@@ -1,0 +1,4 @@
+libgl1
+libegl1
+libosmesa6
+libxrender1

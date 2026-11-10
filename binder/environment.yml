@@ -1,0 +1,17 @@
+# Binder environment for the two main workshop notebooks (tested pins, same as the Colab install cell).
+# The outlook notebooks need extra packages (torch, pygimli, gstools) - see requirements.txt for a local setup.
+name: gempy-workshop
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - pip
+  - pip:
+      - gempy[opt]==2026.0.3
+      - gempy_engine==2026.0.3.post1
+      - gempy_viewer[opt]==2026.0.5
+      - gempy_plugins==2026.0.3
+      - pyvista==0.49.2
+      - trame-pyvista==0.3.6
+      - nest_asyncio2==1.7.4
+      - anywidget==0.11.0
