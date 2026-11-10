@@ -35,11 +35,14 @@ There are no prerequisites to follow this workshop. A Google Account to create y
 
 ## 🔗 Colab links
 
-Here are the links to colab notebooks we will use in the workshop:
+Open the notebooks we will use in the workshop directly in Google Colab:
 
-[Modeling example step-by-step](https://drive.google.com/file/d/1sL5ZEMmP141Qv0r55flNqFqe4ENJXuFB/view)
+| Notebook | |
+|---|---|
+| Modeling example step-by-step | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgre-aachen/2026_gempy_workshop/blob/main/Modeling_example_2026.ipynb) |
+| Hands-on modeling example | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgre-aachen/2026_gempy_workshop/blob/main/Hands-on_modeling_example_2026.ipynb) |
 
-[Hands on modeling example](https://drive.google.com/file/d/1MXb9YjdOvQlmrz8Ii-pIFmx-HhJqyw6r/view?usp=sharing)
+In Colab, run the first code cell to install GemPy. To keep your changes, use *File → Save a copy in Drive*.
 
 ---
 
