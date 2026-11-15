@@ -8,3 +8,6 @@ __pycache__/
 
 # Results written by the probabilistic modeling notebook
 outlook_notebooks/data/my_uq_results.npz
+
+# Data written by the Opalinuston notebook
+outlook_notebooks/opalinuston_data/
