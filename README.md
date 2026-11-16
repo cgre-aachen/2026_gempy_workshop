@@ -50,7 +50,7 @@ Open the notebooks we will use in the workshop directly in your browser, either 
 
 ## 💻 Local installation (optional)
 
-The two main notebooks run in Colab or on Binder without any setup (see above). The notebooks in `outlook_notebooks/` are meant to run locally. To set up a local environment (Python 3.14):
+The two main notebooks and the Opalinuston example run in Colab or on Binder without any setup (see above). The other notebooks in `outlook_notebooks/` are meant to run locally. To set up a local environment (Python 3.14):
 
 ```bash
 python -m pip install -r requirements.txt
