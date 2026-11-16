@@ -41,6 +41,7 @@ Open the notebooks we will use in the workshop directly in your browser, either 
 |---|---|---|
 | Modeling example step-by-step | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgre-aachen/2026_gempy_workshop/blob/main/Modeling_example_2026.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cgre-aachen/2026_gempy_workshop/main?urlpath=lab/tree/Modeling_example_2026.ipynb) |
 | Hands-on modeling example | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgre-aachen/2026_gempy_workshop/blob/main/Hands-on_modeling_example_2026.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cgre-aachen/2026_gempy_workshop/main?urlpath=lab/tree/Hands-on_modeling_example_2026.ipynb) |
+| Outlook: Opalinuston as a repository host rock | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgre-aachen/2026_gempy_workshop/blob/main/outlook_notebooks/Opalinuston_repository_example_2026.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cgre-aachen/2026_gempy_workshop/main?urlpath=lab/tree/outlook_notebooks/Opalinuston_repository_example_2026.ipynb) |
 
 - **Google Colab** requires a Google account. Run the first code cell to install GemPy. To keep your changes, use *File → Save a copy in Drive*.
 - **Binder** needs no account and has everything pre-installed, but starting can take a few minutes. Sessions are temporary: download your notebook (*File → Download*) if you want to keep your changes.
@@ -49,7 +50,7 @@ Open the notebooks we will use in the workshop directly in your browser, either 
 
 ## 💻 Local installation (optional)
 
-The two main notebooks run in Colab or on Binder without any setup (see above). The notebooks in `outlook_notebooks/` are meant to run locally. To set up a local environment (Python 3.14):
+The two main notebooks and the Opalinuston example run in Colab or on Binder without any setup (see above). The other notebooks in `outlook_notebooks/` are meant to run locally. To set up a local environment (Python 3.14):
 
 ```bash
 python -m pip install -r requirements.txt
